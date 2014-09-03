@@ -1,0 +1,26 @@
+{
+  "name": "curatesMongo",
+  "version": "0.0.0",
+  "description": "curatesMongo ============",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Next-Mars/curatesMongo.git"
+  },
+  "author": "Next-Mars",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Next-Mars/curatesMongo/issues"
+  },
+  "homepage": "https://github.com/Next-Mars/curatesMongo",
+  "dependencies": {
+    "body-parser": "^1.7.0",
+    "cookie-parser": "^1.3.2",
+    "express": "^4.8.7",
+    "express-session": "^1.7.6",
+    "mongoose": "^3.8.15"
+  }
+}
